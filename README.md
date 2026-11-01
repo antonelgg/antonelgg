@@ -50,11 +50,14 @@ Aplicación de escritorio en **.NET 8** que genera pagarés en PDF, con **arquit
 
 `C#` ` .NET 8` `WPF` `QuestPDF` `Clean Architecture`
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=antonelgg&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonelgg&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/antonelgg?label=Seguidores&logo=github&color=58A6FF&logoColor=white" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/antonelgg/generador-pagare?label=⭐%20generador-pagare&color=58A6FF" alt="Stars del proyecto" />
+  <img src="https://img.shields.io/badge/Lenguaje-C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white" alt=".NET 8" />
+  <img src="https://img.shields.io/badge/Licencia-MIT-blue" alt="MIT" />
 </p>
 
 ## 📬 Contacto
