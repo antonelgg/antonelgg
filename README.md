@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Antonio Ismael</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=900&color=58A6FF&center=true&width=620&lines=Desarrollador+Fullstack+Jr;C%23+%C2%B7+.NET+%C2%B7+PHP%2FLaravel+%C2%B7+SQL+Server;Cuernavaca%2C+Morelos+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=900&color=58A6FF&center=true&width=620&lines=Desarrollador+Fullstack+Jr;C%23+%C2%B7+.NET+%C2%B7+PHP%2FLaravel+%C2%B7+SQL+Server" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -64,6 +64,5 @@ Aplicación de escritorio en **.NET 8** que genera pagarés en PDF, con **arquit
 
 - 💼 LinkedIn: [antonio-ismael-gutierrez-garcia](https://www.linkedin.com/in/antonio-ismael-gutierrez-garcia-697775307/)
 - ✉️ Email: [antonio_ismael_gutierrez_garcia@hotmail.com](mailto:antonio_ismael_gutierrez_garcia@hotmail.com)
-- 📍 Cuernavaca, Morelos, México
 
 <p align="center"><i>"El mejor código es el que resuelve un problema real."</i></p>
