@@ -55,8 +55,6 @@ Aplicación de escritorio en **.NET 8** que genera pagarés en PDF, con **arquit
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/antonelgg?label=Seguidores&logo=github&color=58A6FF&logoColor=white" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/antonelgg/generador-pagare?label=⭐%20generador-pagare&color=58A6FF" alt="Stars del proyecto" />
   <img src="https://img.shields.io/badge/Lenguaje-C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white" alt=".NET 8" />
   <img src="https://img.shields.io/badge/Licencia-MIT-blue" alt="MIT" />
