@@ -4,19 +4,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=900&color=58A6FF&center=true&width=620&lines=Desarrollador+Fullstack+Jr;C%23+%C2%B7+.NET+%C2%B7+PHP%2FLaravel+%C2%B7+SQL+Server" alt="Typing SVG" />
 </p>
 
+---
+
+## 🧑‍💻 Sobre mí
+
+**Convierto procesos manuales en software: mi último proyecto eliminó el llenado a mano de pagarés, generándolos listos para imprimir en .NET 8.**
+
+Egresado de la **Licenciatura en Informática de la UAEM** con experiencia continua en desarrollo de software desde 2021, incluyendo **15 meses en un mismo rol de desarrollo** en VIT. Trabajo backend con **C#/.NET** y **PHP/Laravel**, frontend con **JavaScript**, y consumo/creación de **APIs REST** sobre **SQL Server**.
+
+Desde noviembre de 2026 estoy enfocado en sumar el frontend moderno (React) para completarme como fullstack.
+
 <p align="center">
   <a href="https://www.linkedin.com/in/antonio-ismael-gutierrez-garcia-697775307/">LinkedIn</a> ·
   <a href="mailto:antonio_ismael_gutierrez_garcia@hotmail.com">Email</a> ·
   <a href="https://github.com/antonelgg/generador-pagare">🛠️ Proyecto destacado</a>
 </p>
-
----
-
-## 🧑‍💻 Sobre mí
-
-Egresado de la **Licenciatura en Informática de la UAEM** con experiencia continua en desarrollo de software desde 2021, incluyendo **15 meses en un mismo rol de desarrollo** en VIT. Trabajo backend con **C#/.NET** y **PHP/Laravel**, frontend con **JavaScript**, y consumo/creación de **APIs REST** sobre **SQL Server**.
-
-En mi último proyecto construí un generador de pagarés en .NET 8 con arquitectura limpia, y ahora estoy enfocado en sumar el frontend moderno (React) para completarme como fullstack.
 
 ## 🛠️ Stack
 
